@@ -43,7 +43,7 @@ Currently, I’m exploring the intersection of **AI, distributed systems, and fi
 ### 🧩 Featured Projects
 
 #### 🏦 **Trading Capture System** *(May 2025 – Present)*  
-> A scalable, distributed trade capture and validation system designed for investment bank middle-office operations.  
+A scalable, distributed trade capture and validation system designed for investment bank middle-office operations.  
 - Architected microservices with **Spring Boot, Spring Cloud, Kafka, and QuickFIX/J** for **real-time FIX message ingestion** and validation.  
 - Implemented **Spring Data JPA** and **Hibernate** for trade persistence and audit tracking.  
 - Developed **event-driven workflows** using **Kafka topics** to asynchronously handle corrections, cancellations, and enrichment events.  
@@ -55,7 +55,7 @@ Currently, I’m exploring the intersection of **AI, distributed systems, and fi
 ---
 
 #### 🌍 **Travel Tracker** *(Apr 2025 – Present)*  
-> A full-stack web app that enables users to securely log in, record trips, and visualize travel history through dynamic, interactive maps.  
+A full-stack web app that enables users to securely log in, record trips, and visualize travel history through dynamic, interactive maps.  
 - Designed and implemented **Flask-based REST APIs** for travel logs, user profiles, and authentication (using **Flask-Login** and **Bcrypt**).  
 - Built a **PostgreSQL**-backed **SQLAlchemy** ORM schema with optimized indexing for large user datasets.  
 - Integrated **Leaflet.js + OpenStreetMap APIs** for real-time map rendering, trip clustering, and region-based visualization.  
@@ -66,7 +66,7 @@ Currently, I’m exploring the intersection of **AI, distributed systems, and fi
 ---
 
 #### 🏌️ **GolfBud1** *(Mar 2023 – Aug 2024)*  
-> An intelligent golf swing analyzer that leverages AI and pose estimation to provide real-time feedback to users.  
+An intelligent golf swing analyzer that leverages AI and pose estimation to provide real-time feedback to users.  
 - Integrated **MediaPipe Pose**, **OpenCV**, and custom **SVM/Decision Tree** classifiers to improve swing form detection accuracy by 15%.  
 - Built a **Flask backend API** for motion data processing and linked it to a **Flutter mobile frontend**.  
 - Hosted backend inference services on **AWS EC2**, with real-time video storage on **Firebase**.  
@@ -77,7 +77,7 @@ Currently, I’m exploring the intersection of **AI, distributed systems, and fi
 ---
 
 #### 🧮 **Apex Cluster** *(2022 – 2023)*  
-> A high school capstone project using clustering algorithms to **optimally group students** based on their interests for a presentation event.  
+A high school capstone project using clustering algorithms to **optimally group students** based on their interests for a presentation event.  
 - Designed and implemented a **K-means + preference weighting algorithm** to classify over **300+ students** into sessions aligned with their top interests.  
 - Built data pipelines in **Python (NumPy + pandas)** for processing survey responses and converting them into normalized vector representations.  
 - Integrated an **iterative optimization** layer to minimize overlap between conflicting interest groups and maximize satisfaction scores.  
